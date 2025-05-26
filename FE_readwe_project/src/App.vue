@@ -48,7 +48,6 @@
   
   // accounts 로직 구간입니다.
   import { accountStore } from './stores/accounts';
-import LandingView from './views/main/LandingView.vue'
 
   const userStore = accountStore()
   const logOut = function(){
