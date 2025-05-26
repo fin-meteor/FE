@@ -12,4 +12,4 @@ import AccountsFooter from '@/components/accounts/AccountsFooter.vue'
 
 <style scoped>
 
-</style>
+</style> 
